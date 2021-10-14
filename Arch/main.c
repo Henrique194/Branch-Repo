@@ -2,6 +2,6 @@
 #import<stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Hello main!\n");
 	return 0;
 }
