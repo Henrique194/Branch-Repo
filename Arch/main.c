@@ -2,6 +2,6 @@
 #import<stdio.h>
 
 int main(void) {
-	printf("Hello tbranch!\n");
+	printf("Hello tbranch from GITHUB!\n");
 	return 0;
 }
