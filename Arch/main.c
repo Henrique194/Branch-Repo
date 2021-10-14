@@ -3,6 +3,6 @@
 
 int main(void) {
 <<<<<<< HEAD
-	printf("Hello main!\n");
+	printf("Hello main from Local!\n");
 	return 0;
 }
